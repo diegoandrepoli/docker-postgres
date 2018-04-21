@@ -2,7 +2,7 @@
 Running Postgres SQL in Docker container.
 
 ## Requirment
-To run via boot script you will need the bash shell, this is standard on many Linux distributions.
+To run with boot script you will need the bash shell, this is standard on many Linux distributions.
 
 ## Instalation
 Get Docker 
